@@ -69,7 +69,7 @@ Unattended-Upgrade::Allowed-Origins {
 };
 
 # Auto-reboot settings:
-Unattended-Upgrade::Automatic-Reboot "false";
+Unattended-Upgrade::Automatic-Reboot "true";
 Unattended-Upgrade::Automatic-Reboot-Time "02:00";
 Unattended-Upgrade::Automatic-Reboot-WithUsers "true";
 
